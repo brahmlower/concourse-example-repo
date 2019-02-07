@@ -1,0 +1,9 @@
+db:
+  hostname: localhost
+  database: buildings-db
+  username: buildings-user
+  password: buildings-password
+  port: 5432
+# web:
+#   host: localhost
+#   port: 8000
