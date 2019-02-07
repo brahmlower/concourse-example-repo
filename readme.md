@@ -8,3 +8,4 @@ This is a small monorepo containing several simple projects to demonstrate conti
 - (buildings-api-php) PHP application service
 - (buildings-sql) SQL migrations
 - (buildings-ui) React single page application
+testing
